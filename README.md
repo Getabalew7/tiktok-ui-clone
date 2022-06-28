@@ -26,11 +26,11 @@ Install /update packages and start your serve
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/60742895/176246178-afa59d00-17e2-4f9d-bd9f-673d95352608.png)
+![image](https://user-images.githubusercontent.com/60742895/176246318-7dc75368-9a5d-4017-af25-c49b65b5313d.png)
 
 
 ## Author
-
 - [Getabalew](https://www.github.com/getabalew7)
 
 
